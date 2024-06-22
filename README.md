@@ -62,4 +62,4 @@ This work is published under [MIT][mit] License.
 
 
 bundle install
-bundle exec jekyll s
+bundle exec jekyll serve -d ./genereted/en --config _config_en.yml 
