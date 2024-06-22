@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Chirpy</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2024-06-22T11:03:33-03:00</updated>
+  <updated>2024-06-22T15:19:57-03:00</updated>
   <author>
     <name>your_full_name</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,32 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Title</title>
+    <link href="http://localhost:4000/posts/TITLE/" rel="alternate" type="text/html" title="Title" />
+    <published>2024-06-20T00:00:00-03:00</published>
+  
+    <updated>2024-06-20T00:00:00-03:00</updated>
+  
+    <id>http://localhost:4000/posts/TITLE/</id>
+    <content src="http://localhost:4000/posts/TITLE/" />
+    <author>
+      <name>your_full_name</name>
+    </author>
+
+  
+    
+    <category term="Animal" />
+    
+    <category term="Insect" />
+    
+  
+
+  <summary>asd</summary>
+
+  </entry>
 
 </feed>
 

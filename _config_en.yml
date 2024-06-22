@@ -195,14 +195,14 @@ defaults:
       path: assets/js/dist
     values:
       swcache: true
-    # for multilingual posts
-  - scope:
-      # to separate language posts folders
-      path: "*/_posts"
-    values:
-      hidden: true
-      layout: "post"
-      permalink: /:path
+  #   # for multilingual posts
+  # - scope:
+  #     # to separate language posts folders
+  #     path: "*/_posts"
+  #   values:
+  #     hidden: true
+  #     layout: "post"
+  #     permalink: /:path
 
 sass:
   style: compressed
