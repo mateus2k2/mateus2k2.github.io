@@ -1,9 +1,9 @@
 
 
 {
-  "name": "Chirpy",
-  "short_name": "Chirpy",
-  "description": "A minimal, responsive and feature-rich Jekyll theme for technical writing.",
+  "name": "Blog do Mateus",
+  "short_name": "Blog do Mateus",
+  "description": "Blog Simples com o tema Jekyll Chirpy.",
   "icons": [
     {
       "src": "/pt/assets/img/favicons/android-chrome-192x192.png",
