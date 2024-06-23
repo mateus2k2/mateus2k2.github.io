@@ -39,7 +39,8 @@ jobs:
           mkdir -p pt
           cp -r ./generated/en/* en
           cp -r ./generated/pt/* pt
-          cp ./blog/index.html /index.html
+          ls
+          cp ./blog/index.html ./index.html
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
