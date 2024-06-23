@@ -1,0 +1,50 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://mateus2k2.github.io/</id>
+  <title>Chirpy</title>
+  <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
+  <updated>2024-06-23T12:30:55+00:00</updated>
+  <author>
+    <name>your_full_name</name>
+    <uri>https://mateus2k2.github.io/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="https://mateus2k2.github.io/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="https://mateus2k2.github.io/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
+  <rights> © 2024 your_full_name </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Title</title>
+    <link href="https://mateus2k2.github.io/posts/TITLE/" rel="alternate" type="text/html" title="Title" />
+    <published>2024-06-20T00:00:00+00:00</published>
+  
+    <updated>2024-06-23T12:01:01+00:00</updated>
+  
+    <id>https://mateus2k2.github.io/posts/TITLE/</id>
+    <content src="https://mateus2k2.github.io/posts/TITLE/" />
+    <author>
+      <name>your_full_name</name>
+    </author>
+
+  
+    
+    <category term="Animal" />
+    
+    <category term="Insect" />
+    
+  
+
+  <summary>asd
+asd</summary>
+
+  </entry>
+
+</feed>
+
+
