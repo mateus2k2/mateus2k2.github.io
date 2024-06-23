@@ -4,7 +4,7 @@
   <id>https://mateus2k2.github.io/en/</id>
   <title>Chirpy</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2024-06-23T12:42:20+00:00</updated>
+  <updated>2024-06-23T12:52:45+00:00</updated>
   <author>
     <name>your_full_name</name>
     <uri>https://mateus2k2.github.io/en/</uri>
@@ -14,8 +14,8 @@
     href="https://mateus2k2.github.io/en/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
   <rights> © 2024 your_full_name </rights>
-  <icon>/assets/img/favicons/favicon.ico</icon>
-  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+  <icon>/en/assets/img/favicons/favicon.ico</icon>
+  <logo>/en/assets/img/favicons/favicon-96x96.png</logo>
 
 
   

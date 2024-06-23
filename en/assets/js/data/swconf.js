@@ -1,27 +1,27 @@
 const swconf = {
   
-    cacheName: 'chirpy-1719146541',resources: [
-      '/assets/css/jekyll-theme-chirpy.css',
-      '/',
+    cacheName: 'chirpy-1719147166',resources: [
+      '/en/assets/css/jekyll-theme-chirpy.css',
+      '/en/',
       
-        '/categories/',
+        '/en/categories/',
       
-        '/tags/',
+        '/en/tags/',
       
-        '/archives/',
+        '/en/archives/',
       
-        '/about/',
+        '/en/about/',
       
 
       
       
-        '/assets/js/dist/app.min.js',
-        '/assets/js/dist/categories.min.js',
-        '/assets/js/dist/commons.min.js',
-        '/assets/js/dist/home.min.js',
-        '/assets/js/dist/misc.min.js',
-        '/assets/js/dist/page.min.js',
-        '/assets/js/dist/post.min.js'
+        '/en/assets/js/dist/app.min.js',
+        '/en/assets/js/dist/categories.min.js',
+        '/en/assets/js/dist/commons.min.js',
+        '/en/assets/js/dist/home.min.js',
+        '/en/assets/js/dist/misc.min.js',
+        '/en/assets/js/dist/page.min.js',
+        '/en/assets/js/dist/post.min.js'
     ],denyPaths: [
       
     ],
