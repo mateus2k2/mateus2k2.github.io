@@ -4,7 +4,7 @@
   <id>http://localhost:4000/pt/</id>
   <title>Blog do Mateus</title>
   <subtitle>Blog Simples com o tema Jekyll Chirpy.</subtitle>
-  <updated>2024-06-23T15:50:01-03:00</updated>
+  <updated>2024-06-23T15:58:05-03:00</updated>
   <author>
     <name>Mateus Filipe Moreira Silva</name>
     <uri>http://localhost:4000/pt/</uri>
@@ -24,7 +24,7 @@
     <link href="http://localhost:4000/pt/posts/text-and-typography/" rel="alternate" type="text/html" title="Text and Typography PT" />
     <published>2019-08-08T00:33:00-03:00</published>
   
-    <updated>2019-08-08T00:33:00-03:00</updated>
+    <updated>2024-06-23T15:50:08-03:00</updated>
   
     <id>http://localhost:4000/pt/posts/text-and-typography/</id>
     <content src="http://localhost:4000/pt/posts/text-and-typography/" />
