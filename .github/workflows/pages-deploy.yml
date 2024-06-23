@@ -33,9 +33,10 @@ jobs:
       - name: Build Portuguese site
         run: bundle exec jekyll build -d ./generated/pt --source ./blog/pt --config _config_pt.yml
 
-      - name: Combine built sites
+      - name: Copy sites
         run: |
-          mkdir -p _site
+          mkdir -p en
+          mkdir -p pt
           cp -r ./generated/en/* en
           cp -r ./generated/pt/* pt
 
