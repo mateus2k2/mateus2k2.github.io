@@ -36,8 +36,8 @@ jobs:
       - name: Combine built sites
         run: |
           mkdir -p _site
-          cp -r ./generated/en/* _site/
-          cp -r ./generated/pt/* _site/
+          cp -r ./generated/en/* en
+          cp -r ./generated/pt/* pt
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
