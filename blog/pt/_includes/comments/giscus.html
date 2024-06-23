@@ -24,9 +24,8 @@
   
       // Extract the current URL, remove the "/en/" part, and set it as data-term
       let currentUrl = window.location.href;
-      // let dataTerm = currentUrl.replace('http://127.0.0.1:4000/pt/', '');
-      let dataTerm = currentUrl.replace('https://mateus2k2.github.io/pt/', '');
-  
+      let dataTerm = currentUrl.replace(/^.*\/posts\/([^#]*)#?.*$/, '$1');
+      
       let giscusAttributes = {
         src: 'https://giscus.app/client.js',
         'data-repo': '{{ site.comments.giscus.repo}}',
