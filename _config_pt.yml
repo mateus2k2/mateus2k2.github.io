@@ -9,17 +9,17 @@ theme: jekyll-theme-chirpy
 lang: pt-BR
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: America/Sao_Paulo
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Blog do Mateus # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: Meu Blog # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Blog Simples com o tema Jekyll Chirpy.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -30,20 +30,19 @@ github:
   username: mateus2k2 # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: 2k2Mateus # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Mateus Filipe Moreira Silva
+  email: mateusfilipe2k2@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://twitter.com/2k2Mateus # change to your twitter homepage
+    - https://github.com/mateus2k2 # change to your github homepage
+    - https://www.linkedin.com/in/mateus-silva-0b34131b5
+    - https://www.instagram.com/mateus2k2
 
 # Site Verification Settings
 webmaster_verifications:
@@ -97,7 +96,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: assets/avatar.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
@@ -108,7 +107,7 @@ toc: true
 
 comments:
   # Global switch for the post comment system. Keeping it empty means disabled.
-  provider: # [disqus | utterances | giscus]
+  provider: giscus
   # The provider options are as follows:
   disqus:
     shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
@@ -118,15 +117,15 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: # <gh-username>/<repo>
-    repo_id:
-    category:
-    category_id:
-    mapping: # optional, default to 'pathname'
-    strict: # optional, default to '0'
-    input_position: # optional, default to 'bottom'
-    lang: # optional, default to the value of `site.lang`
-    reactions_enabled: # optional, default to the value of `1`
+    repo: mateus2k2/giscus
+    repo_id: R_kgDOMMGa5Q
+    category: General
+    category_id: DIC_kwDOMMGa5c4CgPIJ
+    mapping: specific
+    strict: 1
+    input_position: bottom
+    lang: pt
+    reactions_enabled: 1
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
 assets:
@@ -181,7 +180,6 @@ defaults:
       # DO NOT modify the following parameter unless you are confident enough
       # to update the code of all other post links in this project.
       permalink: /posts/:title/
-      # path: ./_postsPT
   - scope:
       path: _drafts
     values:
