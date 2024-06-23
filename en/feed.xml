@@ -1,17 +1,17 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>https://mateus2k2.github.io/</id>
+  <id>https://mateus2k2.github.io/en/</id>
   <title>Chirpy</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2024-06-23T12:38:38+00:00</updated>
+  <updated>2024-06-23T12:42:20+00:00</updated>
   <author>
     <name>your_full_name</name>
-    <uri>https://mateus2k2.github.io/</uri>
+    <uri>https://mateus2k2.github.io/en/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="https://mateus2k2.github.io/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="https://mateus2k2.github.io/en/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="https://mateus2k2.github.io/"/>
+    href="https://mateus2k2.github.io/en/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
   <rights> © 2024 your_full_name </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
@@ -21,13 +21,13 @@
   
   <entry>
     <title>Title</title>
-    <link href="https://mateus2k2.github.io/posts/TITLE/" rel="alternate" type="text/html" title="Title" />
+    <link href="https://mateus2k2.github.io/en/posts/TITLE/" rel="alternate" type="text/html" title="Title" />
     <published>2024-06-20T00:00:00+00:00</published>
   
     <updated>2024-06-23T12:01:01+00:00</updated>
   
-    <id>https://mateus2k2.github.io/posts/TITLE/</id>
-    <content src="https://mateus2k2.github.io/posts/TITLE/" />
+    <id>https://mateus2k2.github.io/en/posts/TITLE/</id>
+    <content src="https://mateus2k2.github.io/en/posts/TITLE/" />
     <author>
       <name>your_full_name</name>
     </author>

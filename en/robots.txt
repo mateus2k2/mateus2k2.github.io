@@ -2,4 +2,4 @@ User-agent: *
 
 Disallow: /norobots/
 
-Sitemap: https://mateus2k2.github.io/sitemap.xml
+Sitemap: https://mateus2k2.github.io/en/sitemap.xml
