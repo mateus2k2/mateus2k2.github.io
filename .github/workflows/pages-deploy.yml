@@ -40,7 +40,7 @@ jobs:
           cp -r ./generated/en/* en
           cp -r ./generated/pt/* pt
           ls
-          cp ./blog/index.html ./index.html
+          cp ./blog/index.html ./indexxx.html
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
