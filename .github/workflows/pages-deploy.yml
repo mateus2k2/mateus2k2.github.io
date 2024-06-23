@@ -39,12 +39,13 @@ jobs:
           mkdir -p pt
           cp -r ./generated/en/* en
           cp -r ./generated/pt/* pt
-          ls
-          cp ./blog/index.html ./indexxx.html
+
+      - name: Copy index.html to root
+        run: cp blog/index.html ./generated/index.html
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          # publish_branch: gh-pages
+          publish_branch: gh-pages
           publish_dir: ./generated
