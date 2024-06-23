@@ -4,7 +4,7 @@
   <id>https://mateus2k2.github.io/pt/</id>
   <title>Blog do Mateus</title>
   <subtitle>Blog Simples com o tema Jekyll Chirpy.</subtitle>
-  <updated>2024-06-23T15:49:08-03:00</updated>
+  <updated>2024-06-23T15:54:56-03:00</updated>
   <author>
     <name>Mateus Filipe Moreira Silva</name>
     <uri>https://mateus2k2.github.io/pt/</uri>
@@ -20,11 +20,11 @@
 
   
   <entry>
-    <title>Text and Typography</title>
-    <link href="https://mateus2k2.github.io/pt/posts/text-and-typography/" rel="alternate" type="text/html" title="Text and Typography" />
+    <title>Text and Typography PT</title>
+    <link href="https://mateus2k2.github.io/pt/posts/text-and-typography/" rel="alternate" type="text/html" title="Text and Typography PT" />
     <published>2019-08-08T00:33:00-03:00</published>
   
-    <updated>2019-08-08T00:33:00-03:00</updated>
+    <updated>2024-06-23T15:50:08-03:00</updated>
   
     <id>https://mateus2k2.github.io/pt/posts/text-and-typography/</id>
     <content src="https://mateus2k2.github.io/pt/posts/text-and-typography/" />
@@ -44,7 +44,7 @@
 
 Headings
 
-H1 - heading
+H1 - PT - heading
 
 H2 - heading
 
@@ -54,7 +54,7 @@ H4 - heading
 
 Paragraph
 
-Quisque egestas convallis ipsum, ut sollicitudin risus tincidunt a. Maecenas interdum malesuada egestas. Duis consectetur porta risus, sit amet vulputate urna facilis...</summary>
+Quisque egestas convallis ipsum, ut sollicitudin risus tincidunt a. Maecenas interdum malesuada egestas. Duis consectetur porta risus, sit amet vulputate urna fa...</summary>
 
   </entry>
 
