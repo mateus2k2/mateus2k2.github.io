@@ -64,3 +64,6 @@ This work is published under [MIT][mit] License.
 bundle install
 bundle exec jekyll serve -d ./genereted/en --source ./blog/en --config _config_en.yml
 bundle exec jekyll serve -d ./genereted/pt --source ./blog/pt --config _config_pt.yml
+
+https://mateus2k2.github.io/en/
+https://mateus2k2.github.io/pt/
